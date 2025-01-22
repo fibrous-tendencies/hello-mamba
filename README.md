@@ -6,7 +6,7 @@ Welcome to GitHub! GitHub is a platform that allows you to store and share code 
 
 Once you are in the repository, you should see a green button that says "Code". Click on that button and you should see a URL. Copy that URL using the copy button.
 
-It should look like this:
+It should look like this (the URL will be different):
 
 ![dropdown](imgs/dropdown.png)
 
